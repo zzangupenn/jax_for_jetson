@@ -20,7 +20,7 @@ pip install .
 pip install numpy==1.26.4
 ```
 
-## Libraries that seems compatiable
+## Libraries that seems compatible
 ```
 pip install flax==0.8.5 chex==0.1.86 optax==0.2.3 orbax-checkpoint==0.6.3
 ```
