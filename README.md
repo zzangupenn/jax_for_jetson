@@ -14,10 +14,7 @@ pip install <path_to_wheel> --force-reinstall
 
 ## Install Jax
 ```
-git clone https://github.com/google/jax
-cd jax
-git checkout jaxlib-0.4.26
-pip install .
+pip install jax==0.4.26
 pip install numpy==1.26.4
 ```
 
