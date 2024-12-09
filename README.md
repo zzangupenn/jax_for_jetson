@@ -1,6 +1,6 @@
 # jax_for_jetson_orin
 
-#### This repo is deprecated. The newer version is out. [Here](https://github.com/zzangupenn/jax_for_jetson_orin) is a ROS+JAX container.
+#### This repo is deprecated. The newer version is out. [Here](https://github.com/zzangupenn/jax_ros_docker_jetson) is a ROS+JAX container.
 
 JAX 0.4.26 is built on Jetson Orin NX with Jetpack 6.0. Newer versions fail, maybe due to cudnn version.
 
