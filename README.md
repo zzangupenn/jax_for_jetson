@@ -3,6 +3,11 @@
 ## For Jetson Xavier
 You can try these built [wheel files](https://drive.google.com/drive/folders/16XHsvKMb5L744dCcH9M1xWInWsjZfygi?usp=sharing).
 
+```
+pip3 install --force-reinstall ./jaxlib-0.4.6-cp38-cp38-manylinux2014_aarch64.whl
+pip3 install jax==0.4.6
+```
+
 ## For Jetson Orin
 
 #### This repo is deprecated. The newer version is out. [Here](https://github.com/zzangupenn/jax_ros_docker_jetson) is a ROS+JAX container.
